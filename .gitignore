@@ -239,3 +239,5 @@ _Pvt_Extensions
 *.bat
 *.sln
 *.vcxproj
+*.vcproj
+*.vcxproj.filters
