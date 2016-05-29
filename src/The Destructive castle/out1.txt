@@ -1,0 +1,798 @@
+At time= 1
+			Inactive List enemies
+Sequence Number = 4Arrival Time 2 Priority = 0
+Health = 40 Power 17 Hit period = 4
+Distance = 60
+--------
+Sequence Number = 5Arrival Time 2 Priority = 0
+Health = 25 Power 7 Hit period = 3
+Distance = 60
+--------
+			Active List enemies
+RegionA enemies
+Sequenece Number = 3Arrival Time 1 Priority = 165.079
+Type= 1 Health = 32 Power 17 Hit period = 4
+Distance = 43 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionB enemies
+Sequenece Number = 1Arrival Time 1 Priority = 155.021
+Type= 3 Health = 28 Power 5 Hit period = 3
+Distance = 59 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 190 Power=  20
+******************
+RegionC enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionD enemies
+Sequenece Number = 2Arrival Time 1 Priority = 90.0452
+Type= 3 Health = 15 Power 16 Hit period = 5
+Distance = 59 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 190 Power=  20
+******************
+			Killed List enemies
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+==============================||||||||||||||||||||||||||||||||||||||=====================================T1(191)(A)========T2(190)(B)========T3(191)(C)=======T4(190)(D)------------------------------------------------------------------------------------------------------------------------------------------------------||||||||||||||||||||||||||||||||||||||||||||||||||Simulation Time : 2
+At time= 2
+			Inactive List enemies
+			Active List enemies
+RegionA enemies
+Sequenece Number = 3Arrival Time 1 Priority = 140.101
+Type= 1 Health = 27 Power 17 Hit period = 4
+Distance = 42 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionB enemies
+Sequenece Number = 1Arrival Time 1 Priority = 130.029
+Type= 3 Health = 23 Power 5 Hit period = 3
+Distance = 58 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 190 Power=  20
+******************
+RegionC enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionD enemies
+Sequenece Number = 4Arrival Time 2 Priority = 205.058
+Type= 3 Health = 38 Power 17 Hit period = 4
+Distance = 59 time shot = 2 time killed = 0
+--------
+Sequenece Number = 5Arrival Time 2 Priority = 125.03
+Type= 2 Health = 23 Power 7 Hit period = 3
+Distance = 59 time shot = 2 time killed = 0
+--------
+Sequenece Number = 2Arrival Time 1 Priority = 85.0552
+Type= 3 Health = 14 Power 16 Hit period = 5
+Distance = 58 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 188 Power=  20
+******************
+			Killed List enemies
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+==============================||||||||||||||||||||||||||||||||||||||=====================================T1(191)(A)========T2(190)(B)========T3(191)(C)=======T4(188)(D)------------------------------------------------------------------------------------------------------------------------------------------------------||||||||||||||||||||||||||||||||||||||||||||||||||Simulation Time : 3
+At time= 3
+			Inactive List enemies
+			Active List enemies
+RegionA enemies
+Sequenece Number = 3Arrival Time 1 Priority = 115.138
+Type= 1 Health = 22 Power 17 Hit period = 4
+Distance = 41 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionB enemies
+Sequenece Number = 1Arrival Time 1 Priority = 105.044
+Type= 3 Health = 18 Power 5 Hit period = 3
+Distance = 57 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 190 Power=  20
+******************
+RegionC enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionD enemies
+Sequenece Number = 4Arrival Time 2 Priority = 195.073
+Type= 3 Health = 36 Power 17 Hit period = 4
+Distance = 58 time shot = 2 time killed = 0
+--------
+Sequenece Number = 5Arrival Time 2 Priority = 115.04
+Type= 2 Health = 21 Power 7 Hit period = 3
+Distance = 58 time shot = 2 time killed = 0
+--------
+Sequenece Number = 2Arrival Time 1 Priority = 80.0702
+Type= 3 Health = 13 Power 16 Hit period = 5
+Distance = 57 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 188 Power=  20
+******************
+			Killed List enemies
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+==============================||||||||||||||||||||||||||||||||||||||=====================================T1(191)(A)========T2(190)(B)========T3(191)(C)=======T4(188)(D)------------------------------------------------------------------------------------------------------------------------------------------------------||||||||||||||||||||||||||||||||||||||||||||||||||Simulation Time : 4
+At time= 4
+			Inactive List enemies
+			Active List enemies
+RegionA enemies
+Sequenece Number = 3Arrival Time 1 Priority = 90.2125
+Type= 1 Health = 17 Power 17 Hit period = 4
+Distance = 40 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionB enemies
+Sequenece Number = 1Arrival Time 1 Priority = 80.0223
+Type= 3 Health = 13 Power 5 Hit period = 3
+Distance = 56 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 189 Power=  20
+******************
+RegionC enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionD enemies
+Sequenece Number = 4Arrival Time 2 Priority = 185.099
+Type= 3 Health = 34 Power 17 Hit period = 4
+Distance = 57 time shot = 2 time killed = 0
+--------
+Sequenece Number = 5Arrival Time 2 Priority = 105.061
+Type= 2 Health = 19 Power 7 Hit period = 3
+Distance = 57 time shot = 2 time killed = 0
+--------
+Sequenece Number = 2Arrival Time 1 Priority = 75.0952
+Type= 3 Health = 12 Power 16 Hit period = 5
+Distance = 56 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 188 Power=  20
+******************
+			Killed List enemies
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+==============================||||||||||||||||||||||||||||||||||||||=====================================T1(191)(A)========T2(189)(B)========T3(191)(C)=======T4(188)(D)------------------------------------------------------------------------------------------------------------------------------------------------------||||||||||||||||||||||||||||||||||||||||||||||||||Simulation Time : 5
+At time= 5
+			Inactive List enemies
+			Active List enemies
+RegionA enemies
+Sequenece Number = 3Arrival Time 1 Priority = 65.1478
+Type= 1 Health = 12 Power 17 Hit period = 4
+Distance = 23 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionB enemies
+Sequenece Number = 1Arrival Time 1 Priority = 55.0303
+Type= 3 Health = 8 Power 5 Hit period = 3
+Distance = 55 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 189 Power=  20
+******************
+RegionC enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionD enemies
+Sequenece Number = 4Arrival Time 2 Priority = 175.152
+Type= 3 Health = 32 Power 17 Hit period = 4
+Distance = 56 time shot = 2 time killed = 0
+--------
+Sequenece Number = 5Arrival Time 2 Priority = 95.0313
+Type= 2 Health = 17 Power 7 Hit period = 3
+Distance = 56 time shot = 2 time killed = 0
+--------
+Sequenece Number = 2Arrival Time 1 Priority = 70.1455
+Type= 3 Health = 11 Power 16 Hit period = 5
+Distance = 55 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 187 Power=  20
+******************
+			Killed List enemies
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+==============================||||||||||||||||||||||||||||||||||||||=====================================T1(191)(A)========T2(189)(B)========T3(191)(C)=======T4(187)(D)------------------------------------------------------------------------------------------------------------------------------------------------------||||||||||||||||||||||||||||||||||||||||||||||||||Simulation Time : 6
+At time= 6
+			Inactive List enemies
+			Active List enemies
+RegionA enemies
+Sequenece Number = 3Arrival Time 1 Priority = 40.1848
+Type= 1 Health = 7 Power 17 Hit period = 4
+Distance = 23 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionB enemies
+Sequenece Number = 1Arrival Time 1 Priority = 30.0463
+Type= 3 Health = 3 Power 5 Hit period = 3
+Distance = 54 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 189 Power=  20
+******************
+RegionC enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionD enemies
+Sequenece Number = 4Arrival Time 2 Priority = 165.062
+Type= 3 Health = 30 Power 17 Hit period = 4
+Distance = 55 time shot = 2 time killed = 0
+--------
+Sequenece Number = 5Arrival Time 2 Priority = 85.0424
+Type= 2 Health = 15 Power 7 Hit period = 3
+Distance = 55 time shot = 2 time killed = 0
+--------
+Sequenece Number = 2Arrival Time 1 Priority = 65.0494
+Type= 3 Health = 10 Power 16 Hit period = 5
+Distance = 54 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 185 Power=  20
+******************
+			Killed List enemies
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+==============================||||||||||||||||||||||||||||||||||||||=====================================T1(191)(A)========T2(189)(B)========T3(191)(C)=======T4(185)(D)------------------------------------------------------------------------------------------------------------------------------------------------------||||||||||||||||||||||||||||||||||||||||||||||||||Simulation Time : 7
+At time= 7
+			Inactive List enemies
+			Active List enemies
+RegionA enemies
+Sequenece Number = 3Arrival Time 1 Priority = 15.2464
+Type= 1 Health = 2 Power 17 Hit period = 4
+Distance = 23 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionB enemies
+Paved Distanse = 30
+Tower Data 
+Health = 188 Power=  20
+******************
+RegionC enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionD enemies
+Sequenece Number = 4Arrival Time 2 Priority = 155.079
+Type= 3 Health = 28 Power 17 Hit period = 4
+Distance = 54 time shot = 2 time killed = 0
+--------
+Sequenece Number = 5Arrival Time 2 Priority = 75.0648
+Type= 2 Health = 13 Power 7 Hit period = 3
+Distance = 54 time shot = 2 time killed = 0
+--------
+Sequenece Number = 2Arrival Time 1 Priority = 60.0604
+Type= 3 Health = 9 Power 16 Hit period = 5
+Distance = 53 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 185 Power=  20
+******************
+			Killed List enemies
+Sequence Number = 1Arrival Time 1 Priority = 15.0231
+Health = 0 Power 5 Hit period = 3
+Distance = 54 time shot = 1 time killed = 7
+--------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+==============================||||||||||||||||||||||||||||||||||||||=====================================T1(191)(A)========T2(188)(B)========T3(191)(C)=======T4(185)(D)------------------------------------------------------------------------------------------------------------------------------------------------------||||||||||||||||||||||||||||||||||||||||||||||||||Simulation Time : 8
+At time= 8
+			Inactive List enemies
+			Active List enemies
+RegionA enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionB enemies
+Paved Distanse = 30
+Tower Data 
+Health = 188 Power=  20
+******************
+RegionC enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionD enemies
+Sequenece Number = 4Arrival Time 2 Priority = 145.107
+Type= 3 Health = 26 Power 17 Hit period = 4
+Distance = 53 time shot = 2 time killed = 0
+--------
+Sequenece Number = 5Arrival Time 2 Priority = 65.033
+Type= 2 Health = 11 Power 7 Hit period = 3
+Distance = 53 time shot = 2 time killed = 0
+--------
+Sequenece Number = 2Arrival Time 1 Priority = 55.0769
+Type= 3 Health = 8 Power 16 Hit period = 5
+Distance = 52 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 184 Power=  20
+******************
+			Killed List enemies
+Sequence Number = 1Arrival Time 1 Priority = 15.0309
+Health = 0 Power 5 Hit period = 3
+Distance = 54 time shot = 1 time killed = 7
+--------
+Sequence Number = 3Arrival Time 1 Priority = 5.36957
+Health = 0 Power 17 Hit period = 4
+Distance = 23 time shot = 1 time killed = 8
+--------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+==============================||||||||||||||||||||||||||||||||||||||=====================================T1(191)(A)========T2(188)(B)========T3(191)(C)=======T4(184)(D)------------------------------------------------------------------------------------------------------------------------------------------------------||||||||||||||||||||||||||||||||||||||||||||||||||Simulation Time : 9
+At time= 9
+			Inactive List enemies
+			Active List enemies
+RegionA enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionB enemies
+Paved Distanse = 30
+Tower Data 
+Health = 188 Power=  20
+******************
+RegionC enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionD enemies
+Sequenece Number = 4Arrival Time 2 Priority = 135.163
+Type= 3 Health = 24 Power 17 Hit period = 4
+Distance = 52 time shot = 2 time killed = 0
+--------
+Sequenece Number = 5Arrival Time 2 Priority = 55.0449
+Type= 2 Health = 9 Power 7 Hit period = 3
+Distance = 52 time shot = 2 time killed = 0
+--------
+Sequenece Number = 2Arrival Time 1 Priority = 50.1046
+Type= 3 Health = 7 Power 16 Hit period = 5
+Distance = 51 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 184 Power=  20
+******************
+			Killed List enemies
+Sequence Number = 1Arrival Time 1 Priority = 15.0463
+Health = 0 Power 5 Hit period = 3
+Distance = 54 time shot = 1 time killed = 7
+--------
+Sequence Number = 3Arrival Time 1 Priority = 5.14783
+Health = 0 Power 17 Hit period = 4
+Distance = 23 time shot = 1 time killed = 8
+--------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+==============================||||||||||||||||||||||||||||||||||||||=====================================T1(191)(A)========T2(188)(B)========T3(191)(C)=======T4(184)(D)------------------------------------------------------------------------------------------------------------------------------------------------------||||||||||||||||||||||||||||||||||||||||||||||||||Simulation Time : 10
+At time= 10
+			Inactive List enemies
+			Active List enemies
+RegionA enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionB enemies
+Paved Distanse = 30
+Tower Data 
+Health = 188 Power=  20
+******************
+RegionC enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionD enemies
+Sequenece Number = 4Arrival Time 2 Priority = 125.067
+Type= 3 Health = 22 Power 17 Hit period = 4
+Distance = 51 time shot = 2 time killed = 0
+--------
+Sequenece Number = 2Arrival Time 1 Priority = 45.16
+Type= 3 Health = 6 Power 16 Hit period = 5
+Distance = 50 time shot = 1 time killed = 0
+--------
+Sequenece Number = 5Arrival Time 2 Priority = 45.0686
+Type= 2 Health = 7 Power 7 Hit period = 3
+Distance = 51 time shot = 2 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 183 Power=  20
+******************
+			Killed List enemies
+Sequence Number = 1Arrival Time 1 Priority = 15.0231
+Health = 0 Power 5 Hit period = 3
+Distance = 54 time shot = 1 time killed = 7
+--------
+Sequence Number = 3Arrival Time 1 Priority = 5.18478
+Health = 0 Power 17 Hit period = 4
+Distance = 23 time shot = 1 time killed = 8
+--------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+==============================||||||||||||||||||||||||||||||||||||||=====================================T1(191)(A)========T2(188)(B)========T3(191)(C)=======T4(183)(D)------------------------------------------------------------------------------------------------------------------------------------------------------||||||||||||||||||||||||||||||||||||||||||||||||||Simulation Time : 11
+At time= 11
+			Inactive List enemies
+			Active List enemies
+RegionA enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionB enemies
+Paved Distanse = 30
+Tower Data 
+Health = 188 Power=  20
+******************
+RegionC enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionD enemies
+Sequenece Number = 4Arrival Time 2 Priority = 115.085
+Type= 3 Health = 20 Power 17 Hit period = 4
+Distance = 50 time shot = 2 time killed = 0
+--------
+Sequenece Number = 5Arrival Time 2 Priority = 40.035
+Type= 2 Health = 6 Power 7 Hit period = 3
+Distance = 50 time shot = 2 time killed = 0
+--------
+Sequenece Number = 2Arrival Time 1 Priority = 35.0544
+Type= 3 Health = 4 Power 16 Hit period = 5
+Distance = 49 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 181 Power=  20
+******************
+			Killed List enemies
+Sequence Number = 1Arrival Time 1 Priority = 15.0309
+Health = 0 Power 5 Hit period = 3
+Distance = 54 time shot = 1 time killed = 7
+--------
+Sequence Number = 3Arrival Time 1 Priority = 5.24638
+Health = 0 Power 17 Hit period = 4
+Distance = 23 time shot = 1 time killed = 8
+--------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+==============================||||||||||||||||||||||||||||||||||||||=====================================T1(191)(A)========T2(188)(B)========T3(191)(C)=======T4(181)(D)------------------------------------------------------------------------------------------------------------------------------------------------------||||||||||||||||||||||||||||||||||||||||||||||||||Simulation Time : 12
+At time= 12
+			Inactive List enemies
+			Active List enemies
+RegionA enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionB enemies
+Paved Distanse = 30
+Tower Data 
+Health = 188 Power=  20
+******************
+RegionC enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionD enemies
+Sequenece Number = 4Arrival Time 2 Priority = 105.116
+Type= 3 Health = 18 Power 17 Hit period = 4
+Distance = 49 time shot = 2 time killed = 0
+--------
+Sequenece Number = 2Arrival Time 1 Priority = 30.0667
+Type= 3 Health = 3 Power 16 Hit period = 5
+Distance = 48 time shot = 1 time killed = 0
+--------
+Sequenece Number = 5Arrival Time 2 Priority = 30.0476
+Type= 2 Health = 4 Power 7 Hit period = 3
+Distance = 49 time shot = 2 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 181 Power=  20
+******************
+			Killed List enemies
+Sequence Number = 1Arrival Time 1 Priority = 15.0463
+Health = 0 Power 5 Hit period = 3
+Distance = 54 time shot = 1 time killed = 7
+--------
+Sequence Number = 3Arrival Time 1 Priority = 5.36957
+Health = 0 Power 17 Hit period = 4
+Distance = 23 time shot = 1 time killed = 8
+--------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+==============================||||||||||||||||||||||||||||||||||||||=====================================T1(191)(A)========T2(188)(B)========T3(191)(C)=======T4(181)(D)------------------------------------------------------------------------------------------------------------------------------------------------------||||||||||||||||||||||||||||||||||||||||||||||||||Simulation Time : 13
+At time= 13
+			Inactive List enemies
+			Active List enemies
+RegionA enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionB enemies
+Paved Distanse = 30
+Tower Data 
+Health = 188 Power=  20
+******************
+RegionC enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionD enemies
+Sequenece Number = 4Arrival Time 2 Priority = 95.1771
+Type= 3 Health = 16 Power 17 Hit period = 4
+Distance = 48 time shot = 2 time killed = 0
+--------
+Sequenece Number = 5Arrival Time 2 Priority = 25.0729
+Type= 2 Health = 3 Power 7 Hit period = 3
+Distance = 48 time shot = 2 time killed = 0
+--------
+Sequenece Number = 2Arrival Time 1 Priority = 20.0851
+Type= 3 Health = 1 Power 16 Hit period = 5
+Distance = 47 time shot = 1 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 181 Power=  20
+******************
+			Killed List enemies
+Sequence Number = 1Arrival Time 1 Priority = 15.0231
+Health = 0 Power 5 Hit period = 3
+Distance = 54 time shot = 1 time killed = 7
+--------
+Sequence Number = 3Arrival Time 1 Priority = 5.14783
+Health = 0 Power 17 Hit period = 4
+Distance = 23 time shot = 1 time killed = 8
+--------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+==============================||||||||||||||||||||||||||||||||||||||=====================================T1(191)(A)========T2(188)(B)========T3(191)(C)=======T4(181)(D)------------------------------------------------------------------------------------------------------------------------------------------------------||||||||||||||||||||||||||||||||||||||||||||||||||Simulation Time : 14
+At time= 14
+			Inactive List enemies
+			Active List enemies
+RegionA enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionB enemies
+Paved Distanse = 30
+Tower Data 
+Health = 188 Power=  20
+******************
+RegionC enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionD enemies
+Sequenece Number = 4Arrival Time 2 Priority = 85.0723
+Type= 3 Health = 14 Power 17 Hit period = 4
+Distance = 47 time shot = 2 time killed = 0
+--------
+Sequenece Number = 5Arrival Time 2 Priority = 15.0372
+Type= 2 Health = 1 Power 7 Hit period = 3
+Distance = 47 time shot = 2 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 179 Power=  20
+******************
+			Killed List enemies
+Sequence Number = 1Arrival Time 1 Priority = 15.0309
+Health = 0 Power 5 Hit period = 3
+Distance = 54 time shot = 1 time killed = 7
+--------
+Sequence Number = 3Arrival Time 1 Priority = 5.18478
+Health = 0 Power 17 Hit period = 4
+Distance = 23 time shot = 1 time killed = 8
+--------
+Sequence Number = 2Arrival Time 1 Priority = 15.1135
+Health = 0 Power 16 Hit period = 5
+Distance = 47 time shot = 1 time killed = 14
+--------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+==============================||||||||||||||||||||||||||||||||||||||=====================================T1(191)(A)========T2(188)(B)========T3(191)(C)=======T4(179)(D)------------------------------------------------------------------------------------------------------------------------------------------------------||||||||||||||||||||||||||||||||||||||||||||||||||Simulation Time : 15
+At time= 15
+			Inactive List enemies
+			Active List enemies
+RegionA enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionB enemies
+Paved Distanse = 30
+Tower Data 
+Health = 188 Power=  20
+******************
+RegionC enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionD enemies
+Sequenece Number = 4Arrival Time 2 Priority = 65.0924
+Type= 3 Health = 10 Power 17 Hit period = 4
+Distance = 46 time shot = 2 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 179 Power=  20
+******************
+			Killed List enemies
+Sequence Number = 1Arrival Time 1 Priority = 15.0463
+Health = 0 Power 5 Hit period = 3
+Distance = 54 time shot = 1 time killed = 7
+--------
+Sequence Number = 3Arrival Time 1 Priority = 5.24638
+Health = 0 Power 17 Hit period = 4
+Distance = 23 time shot = 1 time killed = 8
+--------
+Sequence Number = 2Arrival Time 1 Priority = 15.1702
+Health = 0 Power 16 Hit period = 5
+Distance = 47 time shot = 1 time killed = 14
+--------
+Sequence Number = 5Arrival Time 2 Priority = 10.0496
+Health = 0 Power 7 Hit period = 3
+Distance = 47 time shot = 2 time killed = 15
+--------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+==============================||||||||||||||||||||||||||||||||||||||=====================================T1(191)(A)========T2(188)(B)========T3(191)(C)=======T4(179)(D)------------------------------------------------------------------------------------------------------------------------------------------------------||||||||||||||||||||||||||||||||||||||||||||||||||Simulation Time : 16
+At time= 16
+			Inactive List enemies
+			Active List enemies
+RegionA enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionB enemies
+Paved Distanse = 30
+Tower Data 
+Health = 188 Power=  20
+******************
+RegionC enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionD enemies
+Sequenece Number = 4Arrival Time 2 Priority = 40.1259
+Type= 3 Health = 5 Power 17 Hit period = 4
+Distance = 45 time shot = 2 time killed = 0
+--------
+Paved Distanse = 30
+Tower Data 
+Health = 179 Power=  20
+******************
+			Killed List enemies
+Sequence Number = 1Arrival Time 1 Priority = 15.0231
+Health = 0 Power 5 Hit period = 3
+Distance = 54 time shot = 1 time killed = 7
+--------
+Sequence Number = 3Arrival Time 1 Priority = 5.36957
+Health = 0 Power 17 Hit period = 4
+Distance = 23 time shot = 1 time killed = 8
+--------
+Sequence Number = 2Arrival Time 1 Priority = 15.0567
+Health = 0 Power 16 Hit period = 5
+Distance = 47 time shot = 1 time killed = 14
+--------
+Sequence Number = 5Arrival Time 2 Priority = 10.0745
+Health = 0 Power 7 Hit period = 3
+Distance = 47 time shot = 2 time killed = 15
+--------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+==============================||||||||||||||||||||||||||||||||||||||=====================================T1(191)(A)========T2(188)(B)========T3(191)(C)=======T4(179)(D)------------------------------------------------------------------------------------------------------------------------------------------------------||||||||||||||||||||||||||||||||||||||||||||||||||Simulation Time : 17
+At time= 17
+			Inactive List enemies
+			Active List enemies
+RegionA enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionB enemies
+Paved Distanse = 30
+Tower Data 
+Health = 188 Power=  20
+******************
+RegionC enemies
+Paved Distanse = 30
+Tower Data 
+Health = 191 Power=  20
+******************
+RegionD enemies
+Paved Distanse = 30
+Tower Data 
+Health = 179 Power=  20
+******************
+			Killed List enemies
+Sequence Number = 1Arrival Time 1 Priority = 15.0309
+Health = 0 Power 5 Hit period = 3
+Distance = 54 time shot = 1 time killed = 7
+--------
+Sequence Number = 3Arrival Time 1 Priority = 5.14783
+Health = 0 Power 17 Hit period = 4
+Distance = 23 time shot = 1 time killed = 8
+--------
+Sequence Number = 2Arrival Time 1 Priority = 15.0681
+Health = 0 Power 16 Hit period = 5
+Distance = 47 time shot = 1 time killed = 14
+--------
+Sequence Number = 5Arrival Time 2 Priority = 10.0372
+Health = 0 Power 7 Hit period = 3
+Distance = 47 time shot = 2 time killed = 15
+--------
+Sequence Number = 4Arrival Time 2 Priority = 15.1889
+Health = 0 Power 17 Hit period = 4
+Distance = 45 time shot = 2 time killed = 17
+--------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Win
